@@ -1,0 +1,1 @@
+<? echo chmod("../password.txt", 0644); ?>
